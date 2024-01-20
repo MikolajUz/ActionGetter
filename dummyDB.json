@@ -1,0 +1,563 @@
+{
+  "actions": [
+    {
+      "0": {
+        "type": "mousemove",
+        "position": "(0, 577)"
+      },
+      "id": "3f95"
+    },
+    {
+      "id": "91a3"
+    },
+    {
+      "id": "0691"
+    },
+    {
+      "0": {
+        "type": "mousemove",
+        "position": "(467, 81)"
+      },
+      "1": {
+        "type": "mousemove",
+        "position": "(518, 150)"
+      },
+      "2": {
+        "type": "mousemove",
+        "position": "(608, 178)"
+      },
+      "3": {
+        "type": "mousemove",
+        "position": "(617, 158)"
+      },
+      "4": {
+        "type": "mousemove",
+        "position": "(554, 70)"
+      },
+      "id": "d0f6"
+    },
+    {
+      "id": "db6d"
+    },
+    {
+      "0": {
+        "type": "mousemove",
+        "position": "(175, 64)"
+      },
+      "1": {
+        "type": "mousemove",
+        "position": "(153, 83)"
+      },
+      "2": {
+        "type": "mousemove",
+        "position": "(152, 85)"
+      },
+      "3": {
+        "type": "mousemove",
+        "position": "(126, 84)"
+      },
+      "4": {
+        "type": "mousemove",
+        "position": "(122, 84)"
+      },
+      "5": {
+        "type": "click",
+        "position": "(122, 84),element [object HTMLDivElement]"
+      },
+      "6": {
+        "type": "mousemove",
+        "position": "(113, 66)"
+      },
+      "7": {
+        "type": "mousemove",
+        "position": "(112, 57)"
+      },
+      "8": {
+        "type": "mousemove",
+        "position": "(106, 51)"
+      },
+      "9": {
+        "type": "click",
+        "position": "(106, 50),element [object HTMLButtonElement]"
+      },
+      "10": {
+        "type": "click",
+        "position": "(106, 50),element [object HTMLButtonElement]"
+      },
+      "11": {
+        "type": "click",
+        "position": "(106, 50),element [object HTMLButtonElement]"
+      },
+      "12": {
+        "type": "mousemove",
+        "position": "(107, 50)"
+      },
+      "13": {
+        "type": "mousemove",
+        "position": "(154, 96)"
+      },
+      "14": {
+        "type": "click",
+        "position": "(154, 97),element [object HTMLDivElement]"
+      },
+      "15": {
+        "type": "mousemove",
+        "position": "(154, 98)"
+      },
+      "16": {
+        "type": "mousemove",
+        "position": "(163, 101)"
+      },
+      "17": {
+        "type": "mousemove",
+        "position": "(171, 102)"
+      },
+      "18": {
+        "type": "mousemove",
+        "position": "(97, 57)"
+      },
+      "19": {
+        "type": "mousemove",
+        "position": "(95, 55)"
+      },
+      "20": {
+        "type": "click",
+        "position": "(95, 55),element [object HTMLButtonElement]"
+      },
+      "21": {
+        "type": "mousemove",
+        "position": "(102, 50)"
+      },
+      "id": "e74b"
+    },
+    {
+      "0": {
+        "type": "mousemove",
+        "position": "(736, 1013)"
+      },
+      "1": {
+        "type": "mousemove",
+        "position": "(1001, 936)"
+      },
+      "2": {
+        "type": "mousemove",
+        "position": "(1026, 651)"
+      },
+      "3": {
+        "type": "mousemove",
+        "position": "(935, 297)"
+      },
+      "4": {
+        "type": "mousemove",
+        "position": "(344, 62)"
+      },
+      "id": "5c6c"
+    },
+    {
+      "id": "8a61"
+    },
+    {
+      "0": {
+        "type": "mousemove",
+        "position": "(907, 151)"
+      },
+      "1": {
+        "type": "mousemove",
+        "position": "(613, 174)"
+      },
+      "2": {
+        "type": "mousemove",
+        "position": "(515, 236)"
+      },
+      "3": {
+        "type": "mousemove",
+        "position": "(500, 252)"
+      },
+      "4": {
+        "type": "mousemove",
+        "position": "(581, 256)"
+      },
+      "5": {
+        "type": "scroll",
+        "position": 1.1111111640930176
+      },
+      "6": {
+        "type": "scroll",
+        "position": 6.6666669845581055
+      },
+      "7": {
+        "type": "scroll",
+        "position": 14.44444465637207
+      },
+      "8": {
+        "type": "scroll",
+        "position": 25.55555534362793
+      },
+      "9": {
+        "type": "scroll",
+        "position": 41.11111068725586
+      },
+      "10": {
+        "type": "scroll",
+        "position": 60
+      },
+      "11": {
+        "type": "scroll",
+        "position": 81.11111450195312
+      },
+      "12": {
+        "type": "scroll",
+        "position": 105.55555725097656
+      },
+      "13": {
+        "type": "scroll",
+        "position": 131.11111450195312
+      },
+      "14": {
+        "type": "scroll",
+        "position": 156.6666717529297
+      },
+      "15": {
+        "type": "scroll",
+        "position": 183.33334350585938
+      },
+      "16": {
+        "type": "scroll",
+        "position": 207.7777862548828
+      },
+      "17": {
+        "type": "scroll",
+        "position": 228.88890075683594
+      },
+      "18": {
+        "type": "scroll",
+        "position": 245.55555725097656
+      },
+      "19": {
+        "type": "scroll",
+        "position": 256.66668701171875
+      },
+      "20": {
+        "type": "scroll",
+        "position": 263.3333435058594
+      },
+      "21": {
+        "type": "scroll",
+        "position": 266.66668701171875
+      },
+      "22": {
+        "type": "scroll",
+        "position": 265.5555725097656
+      },
+      "23": {
+        "type": "scroll",
+        "position": 260
+      },
+      "24": {
+        "type": "scroll",
+        "position": 252.22222900390625
+      },
+      "25": {
+        "type": "scroll",
+        "position": 240
+      },
+      "26": {
+        "type": "scroll",
+        "position": 223.33334350585938
+      },
+      "27": {
+        "type": "scroll",
+        "position": 202.22222900390625
+      },
+      "28": {
+        "type": "scroll",
+        "position": 176.6666717529297
+      },
+      "29": {
+        "type": "scroll",
+        "position": 148.88888549804688
+      },
+      "30": {
+        "type": "scroll",
+        "position": 118.8888931274414
+      },
+      "31": {
+        "type": "scroll",
+        "position": 87.77777862548828
+      },
+      "32": {
+        "type": "scroll",
+        "position": 60
+      },
+      "33": {
+        "type": "scroll",
+        "position": 35.55555725097656
+      },
+      "34": {
+        "type": "scroll",
+        "position": 17.77777862548828
+      },
+      "35": {
+        "type": "scroll",
+        "position": 6.6666669845581055
+      },
+      "36": {
+        "type": "scroll",
+        "position": 1.1111111640930176
+      },
+      "37": {
+        "type": "mousemove",
+        "position": "(625, 256)"
+      },
+      "38": {
+        "type": "scroll",
+        "position": 0
+      },
+      "39": {
+        "type": "mousemove",
+        "position": "(648, 233)"
+      },
+      "40": {
+        "type": "click",
+        "position": "(654, 226),element [object HTMLDivElement]"
+      },
+      "41": {
+        "type": "click",
+        "position": "(654, 226),element [object HTMLDivElement]"
+      },
+      "42": {
+        "type": "mousemove",
+        "position": "(654, 224)"
+      },
+      "43": {
+        "type": "mousemove",
+        "position": "(492, 165)"
+      },
+      "44": {
+        "type": "mousemove",
+        "position": "(476, 162)"
+      },
+      "45": {
+        "type": "click",
+        "position": "(473, 160),element [object HTMLDivElement]"
+      },
+      "46": {
+        "type": "mousemove",
+        "position": "(271, 62)"
+      },
+      "47": {
+        "type": "mousemove",
+        "position": "(241, 55)"
+      },
+      "id": "e0b7"
+    },
+    {
+      "0": {
+        "type": "mousemove",
+        "position": "(168, 52)"
+      },
+      "1": {
+        "type": "mousemove",
+        "position": "(114, 53)"
+      },
+      "2": {
+        "type": "click",
+        "position": "(106, 53),element [object HTMLButtonElement]"
+      },
+      "3": {
+        "type": "mousemove",
+        "position": "(105, 53)"
+      },
+      "4": {
+        "type": "mousemove",
+        "position": "(60, 40)"
+      },
+      "5": {
+        "type": "mousemove",
+        "position": "(33, 40)"
+      },
+      "6": {
+        "type": "click",
+        "position": "(32, 40),element [object HTMLSpanElement]"
+      },
+      "7": {
+        "type": "mousemove",
+        "position": "(34, 40)"
+      },
+      "8": {
+        "type": "mousemove",
+        "position": "(251, 100)"
+      },
+      "9": {
+        "type": "mousemove",
+        "position": "(437, 215)"
+      },
+      "10": {
+        "type": "scroll",
+        "position": 1.1111111640930176
+      },
+      "11": {
+        "type": "scroll",
+        "position": 6.6666669845581055
+      },
+      "12": {
+        "type": "scroll",
+        "position": 15.555556297302246
+      },
+      "13": {
+        "type": "scroll",
+        "position": 31.111112594604492
+      },
+      "14": {
+        "type": "scroll",
+        "position": 54.4444465637207
+      },
+      "15": {
+        "type": "scroll",
+        "position": 80
+      },
+      "16": {
+        "type": "scroll",
+        "position": 107.77777862548828
+      },
+      "17": {
+        "type": "scroll",
+        "position": 136.6666717529297
+      },
+      "18": {
+        "type": "scroll",
+        "position": 165.55555725097656
+      },
+      "19": {
+        "type": "scroll",
+        "position": 194.44444274902344
+      },
+      "20": {
+        "type": "scroll",
+        "position": 218.88890075683594
+      },
+      "21": {
+        "type": "scroll",
+        "position": 238.88890075683594
+      },
+      "22": {
+        "type": "scroll",
+        "position": 253.33334350585938
+      },
+      "23": {
+        "type": "scroll",
+        "position": 262.22222900390625
+      },
+      "24": {
+        "type": "scroll",
+        "position": 265.5555725097656
+      },
+      "25": {
+        "type": "scroll",
+        "position": 266.66668701171875
+      },
+      "26": {
+        "type": "scroll",
+        "position": 265.5555725097656
+      },
+      "27": {
+        "type": "scroll",
+        "position": 260
+      },
+      "28": {
+        "type": "scroll",
+        "position": 252.22222900390625
+      },
+      "29": {
+        "type": "scroll",
+        "position": 238.88890075683594
+      },
+      "30": {
+        "type": "scroll",
+        "position": 220
+      },
+      "31": {
+        "type": "scroll",
+        "position": 197.7777862548828
+      },
+      "32": {
+        "type": "scroll",
+        "position": 171.11111450195312
+      },
+      "33": {
+        "type": "scroll",
+        "position": 142.22222900390625
+      },
+      "34": {
+        "type": "scroll",
+        "position": 110
+      },
+      "35": {
+        "type": "scroll",
+        "position": 78.8888931274414
+      },
+      "36": {
+        "type": "scroll",
+        "position": 51.11111068725586
+      },
+      "37": {
+        "type": "scroll",
+        "position": 28.88888931274414
+      },
+      "38": {
+        "type": "scroll",
+        "position": 13.333333969116211
+      },
+      "39": {
+        "type": "scroll",
+        "position": 3.3333334922790527
+      },
+      "40": {
+        "type": "scroll",
+        "position": 0
+      },
+      "41": {
+        "type": "mousemove",
+        "position": "(466, 232)"
+      },
+      "42": {
+        "type": "mousemove",
+        "position": "(926, 126)"
+      },
+      "id": "abab"
+    },
+    {
+      "id": "3ead"
+    }
+  ],
+  "userInfo": [
+    {
+      "id": "721e",
+      "url": "",
+      "pageTitle": "",
+      "browserInfo": "",
+      "screenResolution": ""
+    },
+    {
+      "id": "b67d",
+      "url": "http://localhost:4200/",
+      "pageTitle": "UserActionGetter",
+      "browserInfo": "Chrome",
+      "screenResolution": "1920x1080"
+    },
+    {
+      "id": "1fa0",
+      "url": "",
+      "pageTitle": "",
+      "browserInfo": "",
+      "screenResolution": ""
+    },
+    {
+      "id": "f618",
+      "url": "http://127.0.0.1:4200/",
+      "pageTitle": "UserActionGetter",
+      "browserInfo": "Chrome",
+      "screenResolution": "1920x1080"
+    }
+  ]
+}
