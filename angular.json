@@ -63,7 +63,7 @@
           "builder": "@angular-devkit/build-angular:github-pages",
           "options": {
             "baseHref": "/ActionGetter/",
-            "outputPath": "dist/ActionGetter",
+            "outputPath": "docs",
             "repo": "https://github.com/MikolajUz/ActionGetter.git",
             "name": "MikolajUz"
           }
